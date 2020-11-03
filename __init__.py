@@ -1,2 +1,2 @@
-from package_dir.calc_factorial import factorial
-from package_dir.calc_sub import sub
+from fac_sub.calc_factorial import factorial
+from fac_sub.calc_sub import sub
